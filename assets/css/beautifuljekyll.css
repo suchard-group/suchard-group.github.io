@@ -111,6 +111,10 @@ img {
   max-width: 100%;
 }
 
+.software-logo {
+  width:500px;
+}
+
 .linked-section {
   padding-top: 3.75rem;
   margin-top: -1.5625rem;
@@ -847,6 +851,9 @@ table tr {
 }
 table tr:nth-child(2n) {
   background-color: #f8f8f8;
+}
+.no-alt-background tr:nth-child(2n) {
+  background-color: #ffffff;
 }
 table tr th {
   font-weight: bold;
