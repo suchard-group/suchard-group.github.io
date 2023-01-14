@@ -28,7 +28,7 @@ subtitle:
             MrBayes is a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. 
         </td>
         <td>
-            <a href="https://github.com/beast-dev/beast-mcmc" target="_blank">Github</a>
+            <a href="https://github.com/NBISweden/MrBayes" target="_blank">Github</a>
         </td>
     </tr>
     <tr>
