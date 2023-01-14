@@ -22,17 +22,17 @@ UCLA Fielding School of Public Health
   * Yucai Shao (MS student)
 
 ### Alumni
-  * [Akihiko Nishimura](https://aki-nishimura.github.io/)
-  * [Alex Fisher](https://stat.duke.edu/alexander-fisher)   
-  * [Andrew Holbrook](https://andrewjholbrook.github.io/)
-  * [Forrest Crawford](http://www.crawfordlab.io/cv/)
-  * Gabriel Hassler
-  * [Guy Baele](https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html)
-  * Lam Ho
-  * [Li-Jung Liang](https://bioscience.ucla.edu/people/li-jung-liang/)
-  * [Philippe Lemey](https://rega.kuleuven.be/cev/ecv/evolutionary-and-computational-virology-publications/00036765)
-  * [Vladimir Minin](https://vnminin.github.io/)
-  * [Xiang Ji](https://xiang-ji-ncsu.github.io/)
-  * Wai-Lok Li
+  * [Akihiko Nishimura](https://aki-nishimura.github.io/) (Assistant Professor, Johns Hopkins University)
+  * [Alex Fisher](https://stat.duke.edu/alexander-fisher) (Assistant Professor, Duke University)
+  * [Andrew Holbrook](https://andrewjholbrook.github.io/) (Assistant Professor, UCLA)
+  * [Forrest Crawford](http://www.crawfordlab.io/cv/) (Associate Professor, Yale University)
+  * Gabriel Hassler (Associate Statistician, RAND Corporation)
+  * [Guy Baele](https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html) (Associate Professor, KU Leuven)
+  * [Lam Ho](https://sites.google.com/site/lamho86/home) (Associate Professor, Dalhousie University)
+  * [Li-Jung Liang](https://bioscience.ucla.edu/people/li-jung-liang/) （Professor & Senior Statistician, UCLA）
+  * [Philippe Lemey](https://rega.kuleuven.be/cev/ecv/evolutionary-and-computational-virology-publications/00036765) (Associate Professor, KU Leuven)
+  * [Vladimir Minin](https://vnminin.github.io/) (Professor, UC Irvine)
+  * [Xiang Ji](https://xiang-ji-ncsu.github.io/) (Assistant Professor, Tulane University)
+  * Wai-Lok Li (Software Engineer, Google)
   * [Zhenyu Zhang](https://sites.google.com/view/zhenyuzhang)
   
