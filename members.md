@@ -34,5 +34,5 @@ UCLA Fielding School of Public Health
   * [Vladimir Minin](https://vnminin.github.io/) (Professor, UC Irvine)
   * [Xiang Ji](https://xiang-ji-ncsu.github.io/) (Assistant Professor, Tulane University)
   * Wai-Lok Li (Software Engineer, Google)
-  * [Zhenyu Zhang](https://sites.google.com/view/zhenyuzhang)
+  * [Zhenyu Zhang](https://sites.google.com/view/zhenyuzhang) (Statistical Scientist, Harbinger Health)
   
