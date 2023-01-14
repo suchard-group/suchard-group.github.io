@@ -18,7 +18,7 @@ UCLA Fielding School of Public Health
   * Jianxiao Yang (PhD student)
   * [Karthik Gangavarapu](https://gkarthik.com/) (Postdoc)
   * Kelly Li (PhD student)
-  * Pratyusa (PhD student)
+  * Pratyusa Datta (PhD student)
   * Yucai Shao (MS student)
 
 ### Alumni
