@@ -28,8 +28,11 @@ UCLA Fielding School of Public Health
   * [Forrest Crawford](http://www.crawfordlab.io/cv/)
   * Gabriel Hassler
   * [Guy Baele](https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html)
+  * Lam Ho
+  * [Li-Jung Liang](https://bioscience.ucla.edu/people/li-jung-liang/)
   * [Philippe Lemey](https://rega.kuleuven.be/cev/ecv/evolutionary-and-computational-virology-publications/00036765)
   * [Vladimir Minin](https://vnminin.github.io/)
   * [Xiang Ji](https://xiang-ji-ncsu.github.io/)
+  * Wai-Lok Li
   * [Zhenyu Zhang](https://sites.google.com/view/zhenyuzhang)
   
