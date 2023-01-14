@@ -21,7 +21,7 @@ subtitle:
     <tr>
         <td>
             <center>
-                <a href="https://nbisweden.github.io/MrBayes/index.html" target="_blank"><img class="software-logo" src="../assets/img/logos/MrBayes.gif" target="_blank" /><br>MrBayes</a>
+                <a href="https://nbisweden.github.io/MrBayes/index.html" target="_blank"><img class="software-logo" src="../assets/img/logos/Bayes.jpeg" target="_blank" /><br>MrBayes</a>
             </center>
         </td>
         <td>
