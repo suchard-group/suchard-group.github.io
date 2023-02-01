@@ -21,19 +21,6 @@ subtitle:
     <tr>
         <td>
             <center>
-                <a href="https://nbisweden.github.io/MrBayes/index.html" target="_blank"><img class="software-logo" src="../assets/img/logos/Bayes.jpeg" target="_blank" /><br>MrBayes</a>
-            </center>
-        </td>
-        <td>
-            MrBayes is a program for Bayesian inference and model choice across a wide range of phylogenetic and evolutionary models. 
-        </td>
-        <td>
-            <a href="https://github.com/NBISweden/MrBayes" target="_blank">Github</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <center>
                 <a href="https://beagle-dev.github.io/" target="_blank"><img class="software-logo" src="../assets/img/logos/beagle-logo.png" target="_blank" /><br>BEAGLE</a>
             </center>
         </td>
