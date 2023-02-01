@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Suchard Group
+title: Research Group of Marc A. Suchard
 
 # Your name to show in the footer
-author: Suchard group
+author: Marc A. Suchard
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -23,7 +23,6 @@ navbar-links:
   Members: "members"
   Research: "research"
   Software: "software"
-  News: "news"
 
 ################
 # --- Logo --- #
