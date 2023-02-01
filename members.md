@@ -22,6 +22,7 @@ UCLA Fielding School of Public Health
   * Yucai Shao (MS student)
 
 ### Alumni
+  * [Alexander Alekseyenko](https://education.musc.edu/MUSCApps/facultydirectory/Alekseyenko-Alexander) (Professor, Medical University of South Carolina)
   * [Guy Baele](https://rega.kuleuven.be/cev/ecv/lab-members/GuyBaele.html) (Associate Professor, KU Leuven)
   * Erik Bloomquist (Mathematical Statistician, Food & Drug Administration)
   * Gabriela Cybis (Associate Professor, University of Rio Grande dol Sul)
