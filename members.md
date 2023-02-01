@@ -40,11 +40,11 @@ UCLA Fielding School of Public Health
   * [Vladimir Minin](https://vnminin.github.io/) (Professor, UC Irvine)    
   * [Akihiko Nishimura](https://aki-nishimura.github.io/) (Assistant Professor, Johns Hopkins University) 
   * [Jack O'Brien](https://www.bowdoin.edu/profiles/faculty/jobrien/index.html) (Associate Professor, Bowdoin College)
-  * Karen Qi (Mathematical Statistician, FDA)
+  * Karen Qi (Mathematical Statistician, Food & Drug Administration)
   * [Ben Redelings](http://ben-redelings.org) (Research Scientist, University of Kansas)
   * Trevor Shaddox (Psychiatrist, UCLA Health)
-  * [Jennifer Tom] (Statistician, Genentech)   
-  * [Yuxi Tian] (Statistician, Denali)
-  * [Max Tolkoff]
+  * Jennifer Tom (Statistician, Genentech)   
+  * Yuxi Tian (Statistician, Denali)
+  * Max Tolkoff (Senior Manager, Statistics, Takeda)
   * [Zhenyu Zhang](https://sites.google.com/view/zhenyuzhang) (Statistical Scientist, Harbinger Health)
   
