@@ -37,7 +37,7 @@ h1 {
 
 .group-title {
   text-shadow: 2px 2px #000000;
-  background: rgba(0,0,0,0.9);
+  background: rgba(0,0,0,0.4);
   padding: 0px 10px 20px 10px;
   width: 620px;
 }
