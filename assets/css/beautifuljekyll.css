@@ -37,10 +37,10 @@ h1 {
 
 .group-title {
   text-shadow: 2px 2px #000000;
-  background: rgba(30,30,30,0.6);
-  padding: 0px 10px 20px 10px;
+  background: rgba(30,30,30,0.2);
+  padding: 0px 0px 12px 0px;
   background-position: center;
-  width: 620px;
+  text-align: center;
 }
 
 h2 {
