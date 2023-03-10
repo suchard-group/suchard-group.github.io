@@ -19,7 +19,7 @@ UCLA Fielding School of Public Health
   * [Karthik Gangavarapu](https://gkarthik.com/) (Postdoc)
   * Kelly Li (PhD student)
   * Pratyusa Datta (PhD student)
-  * Yucai Shao (MS student)
+  * Yucai Shao (PhD student)
 
 ### Alumni
   * [Alexander Alekseyenko](https://education.musc.edu/MUSCApps/facultydirectory/Alekseyenko-Alexander) (Professor, Medical University of South Carolina)
