@@ -20,6 +20,8 @@ UCLA Fielding School of Public Health
   * Kelly Li (PhD student)
   * Pratyusa Datta (PhD student)
   * Yucai Shao (PhD student) <a href="https://github.com/yucais" target="_blank"><i class="fa-brands fa-github"></i></a>
+  * [Kristin Kostka](https://roux.northeastern.edu/people/kristin-kostka/) (DPhil student) <a href="https://github.com/kmkostka/" target="_blank"><i class="fa-brands fa-github"></i></a>
+  * Jamie Weaver (DPhil student)
 
 ### Alumni
   * [Alexander Alekseyenko](https://education.musc.edu/MUSCApps/facultydirectory/Alekseyenko-Alexander) (Professor, Medical University of South Carolina)
