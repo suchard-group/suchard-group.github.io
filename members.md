@@ -12,14 +12,14 @@ Department of Biostatistics\
 UCLA Fielding School of Public Health
 
 ### Current members
-  * [Andrew Magee](https://afmagee.github.io/) (Postdoc)
+  * [Andrew Magee](https://afmagee.github.io/) (Postdoc) <a href="https://github.com/afmagee" target="_blank"><i class="fa-brands fa-github"></i></a>
   * Faaizah Arshad (Undergraduate student) 
-  * [Fan Bu](https://fanbu1995.github.io/) (Postdoc)
-  * Jianxiao Yang (PhD student)
-  * [Karthik Gangavarapu](https://gkarthik.com/) (Postdoc)
+  * [Fan Bu](https://fanbu1995.github.io/) (Postdoc) <a href="https://github.com/fanbu1995" target="_blank"><i class="fa-brands fa-github"></i></a>
+  * Jianxiao Yang (PhD student) <a href="https://github.com/jianxiaoyang" target="_blank"><i class="fa-brands fa-github"></i></a>
+  * [Karthik Gangavarapu](https://gkarthik.com/) (Postdoc) <a href="https://github.com/afmagee" target="_blank"><i class="fa-brands fa-github"></i></a>
   * Kelly Li (PhD student)
   * Pratyusa Datta (PhD student)
-  * Yucai Shao (PhD student)
+  * Yucai Shao (PhD student) <a href="https://github.com/yucais" target="_blank"><i class="fa-brands fa-github"></i></a>
 
 ### Alumni
   * [Alexander Alekseyenko](https://education.musc.edu/MUSCApps/facultydirectory/Alekseyenko-Alexander) (Professor, Medical University of South Carolina)
