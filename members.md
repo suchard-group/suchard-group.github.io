@@ -18,7 +18,7 @@ UCLA Fielding School of Public Health
   * Jianxiao Yang (PhD student) <a href="https://github.com/jianxiaoyang" target="_blank"><i class="fa-brands fa-github"></i></a>
   * [Karthik Gangavarapu](https://gkarthik.com/) (Postdoc) <a href="https://github.com/afmagee" target="_blank"><i class="fa-brands fa-github"></i></a>
   * Kelly Li (PhD student)
-  * Pratyusa Datta (PhD student)
+  * [Pratyusa Datta] (PhD student) <a href="https://github.com/PratyusaDatta" target="_blank"><i class="fa-brands fa-github"></i></a>
   * Yucai Shao (PhD student) <a href="https://github.com/yucais" target="_blank"><i class="fa-brands fa-github"></i></a>
   * [Kristin Kostka](https://roux.northeastern.edu/people/kristin-kostka/) (DPhil student) <a href="https://github.com/kmkostka/" target="_blank"><i class="fa-brands fa-github"></i></a>
   * Jamie Weaver (DPhil student)
