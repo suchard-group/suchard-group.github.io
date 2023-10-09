@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: post
 title: Observational Health Data Science and OHDSI
 
 ---

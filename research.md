@@ -8,5 +8,5 @@ For all publications, see Marc's [Google Scholar page](https://scholar.google.co
 
 ### Some introductory readings
 
-- [**Bayesian Phylogenetics and Phylodynamics**](https://suchard-group.github.io/2022-10-15-bayesian-phylogenetics), by Andrew Magee
-- [**Observational Health Data Science and OHDSI**](https://suchard-group.github.io/rwe-ohdsi), by Fan Bu
+- [**Bayesian Phylogenetics and Phylodynamics**](/2022-10-15-bayesian-phylogenetics), by Andrew Magee
+- [**Observational Health Data Science and OHDSI**](/rwe-ohdsi), by Fan Bu
