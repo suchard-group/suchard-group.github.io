@@ -17,6 +17,7 @@ UCLA Fielding School of Public Health
   * [Andrew Magee](https://afmagee.github.io/) (Postdoc) <a href="https://github.com/afmagee" target="_blank"><i class="fa-brands fa-github"></i></a>
   * Faaizah Arshad (Undergraduate student) <a href="https://github.com/faaizah-arshad" target="_blank"><i class="fa-brands fa-github"></i></a>
   * [Fan Bu](https://fanbu1995.github.io/) (Postdoc) <a href="https://github.com/fanbu1995" target="_blank"><i class="fa-brands fa-github"></i></a>
+  * Filippo Monti (PhD student)
   * Jamie Weaver (DPhil student)
   * Jianxiao Yang (PhD student) <a href="https://github.com/jianxiaoyang" target="_blank"><i class="fa-brands fa-github"></i></a>
   * [Karthik Gangavarapu](https://gkarthik.com/) (Postdoc) <a href="https://github.com/afmagee" target="_blank"><i class="fa-brands fa-github"></i></a>
