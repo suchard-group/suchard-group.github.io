@@ -14,7 +14,6 @@ Department of Biostatistics\
 UCLA Fielding School of Public Health
 
 ### Current members
-  * [Andrew Magee](https://afmagee.github.io/) (Postdoc) <a href="https://github.com/afmagee" target="_blank"><i class="fa-brands fa-github"></i></a>
   * Faaizah Arshad (Undergraduate student) <a href="https://github.com/faaizah-arshad" target="_blank"><i class="fa-brands fa-github"></i></a>
   * [Fan Bu](https://fanbu1995.github.io/) (Postdoc) <a href="https://github.com/fanbu1995" target="_blank"><i class="fa-brands fa-github"></i></a>
   * Filippo Monti (PhD student)
@@ -43,6 +42,7 @@ UCLA Fielding School of Public Health
   * [Philippe Lemey](https://rega.kuleuven.be/cev/ecv/evolutionary-and-computational-virology-publications/00036765) (Associate Professor, KU Leuven)
   * [Li-Jung Liang](https://bioscience.ucla.edu/people/li-jung-liang/) （Professor & Senior Statistician, UCLA）    
   * Wai-Lok Li (Software Engineer, Google)
+  * [Andrew Magee](https://afmagee.github.io/) (Senior Data Scientist, Centers for Disease Control) <a href="https://github.com/afmagee" target="_blank"><i class="fa-brands fa-github"></i></a>
   * [Vladimir Minin](https://vnminin.github.io/) (Professor, UC Irvine)    
   * [Akihiko Nishimura](https://aki-nishimura.github.io/) (Assistant Professor, Johns Hopkins University) 
   * [Jack O'Brien](https://www.bowdoin.edu/profiles/faculty/jobrien/index.html) (Associate Professor, Bowdoin College)
